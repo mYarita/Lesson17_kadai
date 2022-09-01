@@ -1,0 +1,23 @@
+# コンパイルされたクラス ファイル
+*。クラス
+
+# パッケージファイル #
+*.jar
+*。戦争
+*。耳
+
+# メイブン
+目標/
+
+# 日食
+.classpath
+。事業
+。設定/
+建てる/
+
+# OS ファイル
+Thumbs.db
+.DS_ストア
+
+# アプリケーションのプロパティ
+src/main/resources/application.properties

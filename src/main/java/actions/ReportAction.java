@@ -229,7 +229,7 @@ public class ReportAction extends ActionBase {
 
                 //一覧画面にリダイレクト
                 redirect(ForwardConst.ACT_REP, ForwardConst.CMD_INDEX);
-
+                
             }
         }
     }
